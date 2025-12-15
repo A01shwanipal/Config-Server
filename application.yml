@@ -1,4 +1,3 @@
 
-spring:
-  application:
-    name: fuck
+test:
+  message: "Hello this is normal text"
